@@ -1,0 +1,28 @@
+.containerGallery {
+    display: flex;
+    margin-top: 30px;
+    color: rgb(0, 109, 128);
+}
+
+.gifContainer {
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+
+.firstContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+
+.gifs {
+    width: 180px;
+    height: 180px;
+    margin-top: 80px;
+    
+}
+ 
+

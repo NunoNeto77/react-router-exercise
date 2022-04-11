@@ -1,0 +1,11 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.inputs {
+    margin: 6px;
+    padding: 6px;
+}

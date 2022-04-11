@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title{
+    margin: 26px;
+    color: rgb(55, 103, 118);
+}
+
+
+.formContainer {
+    display: flex;  
+    align-items: center;
+}
+
+.inputs {
+    margin: 10px;
+    padding: 12px;
+    width: 300px;
+}
+
+.submitButton {
+    margin: 20px;
+    width: 300px;
+    height: 40px;
+    background: linear-gradient(200deg, green 0%, rgb(44, 245, 61) 100%);
+    border: none;
+
+    border-radius: 10px;
+}
+
+.submitButton:hover {
+    position: relative;
+    cursor: pointer;
+    transition: 0.2;
+    bottom: 3px;
+}
