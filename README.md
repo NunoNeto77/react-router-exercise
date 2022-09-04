@@ -1,3 +1,9 @@
+![react-router-1 image](../assets/react-router-1.png?raw=true)
+![react-router-2 image](../assets/react-router-2.png?raw=true)
+![react-router-3 image](../assets/react-router-3.png?raw=true)
+![react-router-4 image](../assets/react-router-4.png?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
